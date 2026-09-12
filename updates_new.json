@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1789211765,
+    "datetime": 1789214923,
     "files": [
       {
-        "filename": "PixelOS_xaga-17.0-20260912-1116.zip",
+        "filename": "PixelOS_xaga-17.0-20260912-1209.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 37,
-        "sha256": "f24737503bef40a8064ef6ec65ad400a26715c69e958a82b4ae01ca11c0f3b44",
-        "size": 3104081213,
-        "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/Xaga/PixelOS_xaga-17.0-20260912-1116.zip",
-        "ota_property_files": "payload_metadata.bin:4775:129882,payload.bin:4775:3104073315,payload_properties.txt:3104078148:156,apex_info.pb:2283:1487,care_map.pb:3817:911,metadata:69:677,metadata.pb:814:1421"
+        "sha256": "e5eb1930f7ecea6c0d85595481766e3ab8f54a8f2104898e1763c774d77b82d3",
+        "size": 3104081649,
+        "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/Xaga/PixelOS_xaga-17.0-20260912-1209.zip",
+        "ota_property_files": "payload_metadata.bin:4775:129882,payload.bin:4775:3104073751,payload_properties.txt:3104078584:156,apex_info.pb:2283:1487,care_map.pb:3817:911,metadata:69:677,metadata.pb:814:1421"
       }
     ],
     "type": "ci",

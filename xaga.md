@@ -1,3 +1,9 @@
+# 24-Oct-2026
+
+- October PixelOS release
+- Update regarding Compromised eMudhra Intermediate CA Certificates
+- Updated kernel sources to 5.10.272
+
 # 20-Oct-2026
 
 - October PixelOS release

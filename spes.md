@@ -1,3 +1,7 @@
+# 29-Oct-2026
+
+- Update regarding Compromised eMudhra Intermediate CA Certificates
+
 # 20-Oct-2026
 
 - October PixelOS release

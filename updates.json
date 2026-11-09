@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1792776738",
-      "filename": "PixelOS_xaga-17.0-20261023-1732.zip",
-      "id": "249D6640DB8C9C65C772D76CCAE1124A77341EA8FF8C8F41F76672CE1DD38AF1",
+      "datetime": "1794240920",
+      "filename": "PixelOS_xaga-17.0-20261109-1620.zip",
+      "id": "502FFB5EC79E856E04E5037EADCA9ADFE36842051616DE7889A1F96F1776928E",
       "romtype": "OFFICIAL",
-      "size": 3104668272,
-      "url": "https://sourceforge.net/projects/xagaproject/files/Pixelos-xaga/20261023-1732/PixelOS_xaga-17.0-20261023-1732.zip/download",
+      "size": 3112001469,
+      "url": "https://sourceforge.net/projects/xagaproject/files/Pixelos-xaga/20261109-1620/PixelOS_xaga-17.0-20261109-1620.zip/download",
       "version": 17.0
     }
   ]

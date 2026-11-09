@@ -1,3 +1,10 @@
+# 09-Oct-2026
+
+- November PixelOS release
+- Pixelos has done integrity changes kindly read https://aosp.angxddeep.com/integrity to know more.
+- Switched to Xiaomi's Face unlock HAL
+- Fix ImsService crash on emergency calls
+
 # 24-Oct-2026
 
 - Update regarding Compromised eMudhra Intermediate CA Certificates

@@ -1,4 +1,4 @@
-# 09-Oct-2026
+# 09-Nov-2026
 
 - November PixelOS release
 - Pixelos has done integrity changes kindly read https://aosp.angxddeep.com/integrity to know more.

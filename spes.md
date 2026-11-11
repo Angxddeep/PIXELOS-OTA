@@ -1,3 +1,12 @@
+# 12-Nov-2026
+
+- November PixelOS release
+- Pixelos has done integrity changes kindly read https://aosp.angxddeep.com/integrity to know more.
+- Switched to Xiaomi's Face unlock HAL
+- Enabled Pstore logging
+- Enabled Clang's CFI system in Kernel 
+- Merged many LZO backports from upstream in Kernel
+
 # 29-Oct-2026
 
 - Update regarding Compromised eMudhra Intermediate CA Certificates

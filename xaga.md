@@ -1,3 +1,8 @@
+# 15-Nov-2026
+
+- Bugfix release for Face unlock HAL
+- Incremental OTA enabled from now on
+
 # 09-Nov-2026
 
 - November PixelOS release

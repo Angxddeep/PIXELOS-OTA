@@ -1,3 +1,8 @@
+# 15-Nov-2026
+
+- Incremental OTA enabled from now on
+- AOD is now fixed
+
 # 12-Nov-2026
 
 - November PixelOS release

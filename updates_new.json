@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1794421531,
+    "datetime": 1794708037,
     "files": [
       {
-        "filename": "PixelOS_spes-17.0-20261111-1825.zip",
+        "filename": "PixelOS_spes-17.0-20261115-0209.zip",
         "os_patch_level": "2026-11-01",
         "os_sdk_level": 37,
-        "sha256": "62102ead991d510f593ecbdecf3209f2121a4ebeb06fdd1cebb7881113fd1556",
-        "size": 2741391584,
-        "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/Spes/PixelOS_spes-17.0-20261111-1825.zip",
-        "ota_property_files": "payload_metadata.bin:4115:111701,payload.bin:4115:2741384346,payload_properties.txt:2741388519:156,apex_info.pb:1998:1487,care_map.pb:3532:536,metadata:69:686,metadata.pb:823:1127"
+        "sha256": "149230c9c84ee11f5b60307ca7c465c3598aecc9a9563097828e98c90fe98285",
+        "size": 2741368881,
+        "url": "https://aosp.angxddeep.com/Spes/PixelOS_spes-17.0-20261115-0209.zip",
+        "ota_property_files": "payload_metadata.bin:4115:111700,payload.bin:4115:2741361643,payload_properties.txt:2741365816:156,apex_info.pb:1998:1487,care_map.pb:3532:536,metadata:69:686,metadata.pb:823:1127"
       }
     ],
     "type": "ci",

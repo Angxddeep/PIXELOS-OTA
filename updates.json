@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1794421531",
-      "filename": "PixelOS_spes-17.0-20261111-1825.zip",
-      "id": "62102EAD991D510F593ECBDECF3209F2121A4EBEB06FDD1CEBB7881113FD1556",
+      "datetime": "1794708037",
+      "filename": "PixelOS_spes-17.0-20261115-0209.zip",
+      "id": "149230C9C84EE11F5B60307CA7C465C3598AECC9A9563097828E98C90FE98285",
       "romtype": "OFFICIAL",
-      "size": 2741391584,
-      "url": "https://sourceforge.net/projects/xiaomi-spes-devs/files/PIXELOS/20261111-1825/PixelOS_spes-17.0-20261111-1825.zip/download",
+      "size": 2741368881,
+      "url": "https://aosp.angxddeep.com/Spes/PixelOS_spes-17.0-20261115-0209.zip",
       "version": 17.0
     }
   ]

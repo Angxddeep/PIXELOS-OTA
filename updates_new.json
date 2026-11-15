@@ -8,7 +8,7 @@
         "os_sdk_level": 37,
         "sha256": "3d6caca68ed45f387661818e2e8ac02d73ad344092702c06627137d4d3662a09",
         "size": 3105937897,
-        "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/Xaga/PixelOS_xaga-17.0-20261114-1907.zip",
+        "url": "https://aosp.angxddeep.com/Xaga/PixelOS_xaga-17.0-20261114-1907.zip",
         "ota_property_files": "payload_metadata.bin:4775:130339,payload.bin:4775:3105929999,payload_properties.txt:3105934832:156,apex_info.pb:2283:1487,care_map.pb:3817:911,metadata:69:677,metadata.pb:814:1421"
       }
     ],
